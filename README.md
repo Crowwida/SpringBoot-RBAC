@@ -1,3 +1,7 @@
+# SpringBoot-RBAC
+
+利用前后端分离的方式，理解RBAC1模型的小架构……
+
 # 配置说明
 
 建立空数据库
@@ -16,5 +20,3 @@
 
 帐号：admin            
 密码：111111
-
-# SpringBoot-RBAC
