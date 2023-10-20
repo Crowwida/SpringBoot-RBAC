@@ -14,7 +14,8 @@
 
 根据数据库修改mapper层中的sql语句
 
-直接RbacApplication启动后访问：http://localhost:8080/web/views/login/login.html
+直接运行RBACApplication
+启动后访问：http://localhost:8080/web/views/login/login.html
 
 超管账号如下——
 
