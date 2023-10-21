@@ -1,6 +1,6 @@
 # SpringBoot-RBAC
 
-利用前后端分离的方式，理解RBAC1模型的小架构……
+利用SpringBoot的架构，理解RBAC1模型的小系统……
 
 # 配置说明
 
